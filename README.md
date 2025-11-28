@@ -9,3 +9,9 @@
 ## Week 04: Data Transformation
 
 ## Week 05: Data Storage and Modeling 
+
+## Week 07: Injesting & Exploring Unstructerd Data
+
+## Week 08: Unstructure Data Transformation
+
+## Week 09: Loading Unstructured Data
